@@ -2,8 +2,6 @@
 
 📚 Bachelor in International Trade | 🎓 IBM Certified Data Science Professional | 💻 Self-taught Programmer | 🧮 Math Enthusiast | 🤓 Proud Nerd
 
-🚀 Specializing in: Python 🐍 | R 📊 | JavaScript 🌐 | SQL 📂 | HTML/CSS 🖥️ | Java ☕ | C++ 🗂️
-
 🌌 A curious mind exploring the realms of computer science, electronics, and physics. ⚙️
 
 🔍 Passionate about data science, software development, and the endless possibilities they bring. 🌟
