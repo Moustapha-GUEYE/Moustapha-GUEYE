@@ -1,11 +1,9 @@
-👋 Hi, I'm Moustapha GUEYE
+Hi, I'm Moustapha GUEYE
 
-💻 Self-taught Programmer | 🧮 Math Enthusiast | 🤓 Proud Nerd
+Self-taught developer |  Math Enthusiast |  Proud Nerd
 
-🌌 A curious mind exploring the realms of computer science, electronics, and physics. ⚙️
+A curious mind exploring the realms of physics. 
 
-🔍 Passionate about data science, software development, and the endless possibilities they bring. 🌟
+Passionate about sciences, and the endless possibilities they bring. 
 
-🔧 Currently honing my skills and diving deeper into the digital and physical worlds. 🌐
-
-Let's connect and embark on a journey of knowledge and discovery together! 🚀
+Currently honing my skills and diving deeper into the digital and physical worlds. 
